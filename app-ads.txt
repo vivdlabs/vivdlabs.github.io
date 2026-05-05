@@ -2,6 +2,8 @@ google.com, pub-1987257040159292, DIRECT, f08c47fec0942fa0
 
 facebook.com, 1293512032692182, DIRECT, c3e20eee3f780d68
 
+vungle.com, 69f9ed49ab63455004a156b9, DIRECT, c107d686becd2d77
+
 #Unity
 programmaticx.ai, 84448, RESELLER, b42d42eb28400efa
 zmaticoo.com, 5135195, RESELLER
